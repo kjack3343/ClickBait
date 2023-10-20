@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ClickBait</string>
+    <string name="TitleTH">Top Headlines</string>
+    <string name="description1">10 Unbelievable Travel Destinations You Never Knew Existed! You Won\'t Believe #10!</string>
+    <string name="description2">15 Adorable Pets Reacting to Their Reflections – You Won\'t Believe #7!</string>
+    <string name="description3">Quiz: Which Fictional Fantasy World Should You Actually Live In?</string>
+    <string name="description4">The Ultimate DIY Hacks to Transform Your Small Space into a Palace!</string>
+    <string name="description5">Can You Guess These 90s Cartoon Theme Songs? Take the Nostalgia Quiz!</string>
+    <string name="description6">Discover Your Perfect Pizza Topping Based on Your Zodiac Sign! Virgo\'s Will Lose Their
+Minds!</string>
+    <string name="description7">Jaw-Dropping Celebrity Lookalikes That Will Make You Do a Double Take!</string>
+    <string name="description8">The Great Junk Food Showdown: Which Snack Will Win the Taste Test?</string>
+    <string name="description9">Find Out Your Celebrity Soulmate with This Totally Accurate Quiz!</string>
+    <string name="description10">Incredible Life Hacks That Will Change Your Daily Routine Forever!</string>
+    <string name="name1">BuzzFeed</string>
+    <string name="name2">InfoFrenzyHub</string>
+    <string name="name3">ViralInsightGlobe</string>
+    <string name="name4">ViralInsightGlobe</string>
+    <string name="name5">CuriositySphere</string>
+    <string name="name6">InfoFreenzyHub</string>
+    <string name="name7">TrendUnveilArena</string>
+    <string name="name8">BuzzFeed</string>
+    <string name="name9">CuriositySphere</string>
+    <string name="name10">HuffPost</string>
+
+
+
+</resources>
